@@ -1,6 +1,6 @@
 # prostate_volume_estimation
 
-The dataset and the codes for the journal "ESTIMATION OF THE PROSTATE VOLUME FROM ABDOMINAL ULTRASOUND IMAGES BY IMAGE PATCH VOTING".
+The dataset and the codes for the journal "ESTIMATION OF THE PROSTATE VOLUME FROM ABDOMINAL ULTRASOUND IMAGES BY IMAGE PATCH VOTING". https://doi.org/10.3390/app12031390
 
 The code project is shared at https://drive.google.com/drive/folders/1uW2X7bTVSdHtlYxmkCbNwP-ra4X7QjC3?usp=sharing
 
